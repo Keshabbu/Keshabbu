@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Keshabbu/Keshabbu/main/profile_background.png" width="200"/>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Keshabbu/Keshabbu/main/a_digital_vector_3d_style_logo_features_a_futurist.png" width="200"/>
 </p>
 
