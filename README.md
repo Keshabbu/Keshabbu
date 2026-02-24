@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Machine Learning and Data Science</h3>
 <img align="right" alt="coding" width = "400" scr ="https://share.google/daB95xM6jCa11l9dV">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Keshabbu/Keshabbu/main/ai-logo-bg.png" width="200"/>
+  <img src="https://github.com/Keshabbu/Keshabbu/blob/main/profile_background.png" width="200"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabbu&label=Profile%20views&color=0e75b6&style=flat" alt="keshabbu" /> </p>
 
