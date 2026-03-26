@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=keshabbu&label=Profile%20views&color=0e75b6&style=flat" alt="keshabbu" />
 </p>
 
-- 🌱 Currently learning **International Business Information Systems**  
+- 🌱 **International Business Information Systems**  
 - 👨‍💻 Portfolio: [keshabportfolio.kesug.com](http://keshabportfolio.kesug.com/)  
 - 📫 Email: **keshab.budhathoki@gmx.de**  
 - 🔗 LinkedIn: [keshab-budhathoki](https://www.linkedin.com/in/keshab-budhathoki-587b15340/)  
