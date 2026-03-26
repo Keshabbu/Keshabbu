@@ -1,57 +1,122 @@
+# 🚀 Keshab Budhathoki | Data Engineer & ML Enthusiast
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Keshabbu/Keshabbu/main/a_digital_vector_3d_style_logo_features_a_futurist.png" width="200"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Keeshab Budhathoki</h1>
-<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Data+Pipelines;Machine+Learning+Enthusiast;Building+Real-World+Data+Projects)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshabbu&label=Profile%20views&color=0e75b6&style=flat" alt="keshabbu" />
-</p>
+</div>
 
-- 🌱 **International Business Information Systems**  
-- 👨‍💻 Portfolio: [keshabportfolio.kesug.com](http://keshabportfolio.kesug.com/)  
-- 📫 Email: **keshab.budhathoki@gmx.de**  
-- 🔗 LinkedIn: [keshab-budhathoki](https://www.linkedin.com/in/keshab-budhathoki-587b15340/)  
-- 🏆 Kaggle: [keshabbudhathoki](https://www.kaggle.com/keshabbudhathoki)  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/keshab-budhathoki-587b15340/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/keshabbudhathoki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-</p>
+🎓 Graduate in **International Business Information Systems (Germany)**  
+💡 Transitioning into **Data Engineering & Data Science**  
+🧠 8+ years experience in **Networking & ISP Operations**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshabbu&show_icons=true&locale=en&layout=compact" alt="keshabbu" /></p>
+I focus on building **data pipelines, analytics systems, and machine learning solutions** that turn raw data into meaningful insights.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshabbu&show_icons=true&locale=en" alt="keshabbu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshabbu&" alt="keshabbu" /></p>
+## 🎯 Current Focus
+
+🔥 Building **ETL Pipelines** using Python & SQL  
+☁️ Learning **Cloud Data Engineering (AWS / Azure)**  
+📊 Creating **Data Analytics Dashboards (Power BI / R)**  
+⚡ Exploring **Big Data tools (PySpark, Hadoop)**  
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Customer Churn Prediction
+**Machine Learning Project** | Python • Scikit-learn
+- Built classification model for customer retention
+- Applied data preprocessing and feature engineering
+- Evaluated model performance with accuracy metrics
+
+---
+
+### 📈 Data Analysis Dashboard
+**Business Intelligence Project** | Power BI • SQL
+- Created dashboards for business insights
+- Visualized trends and KPIs
+- Enabled data-driven decision-making
+
+---
+
+### ⚙️ Data Pipeline Project
+**Data Engineering Project** | Python • SQL
+- Designed ETL pipeline for structured data processing
+- Automated data cleaning and transformation
+- Prepared datasets for analytics workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+### 📊 Data & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge)
+
+### ⚙️ Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=keshabbu&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshabbu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshabbu&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](http://keshabportfolio.kesug.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshab-budhathoki-587b15340/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/keshabbudhathoki)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:keshab.budhathoki@gmx.de)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Data Engineering (Airflow, Spark)**
+- **Cloud Platforms (AWS / Azure)**
+- Real-time data processing
+- Scalable data architecture
+
+---
+
+## 💡 Goal
+
+🚀 To become a **Data Engineer** building scalable systems that power data-driven decisions.
+
+---
+
+<div align="center">
+
+⭐ *“Turning data into insights, and insights into impact.”*
+
+</div>
